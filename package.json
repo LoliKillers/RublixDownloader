@@ -1,0 +1,25 @@
+{
+  "name": "rublixdownloader",
+  "version": "1.0.0",
+  "description": "Download videos/images/music from external services such as ig, fb, twitter, etc",
+  "main": "index.php",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoliKillers/RublixDownloader.git"
+  },
+  "keywords": [
+    "downloader"
+  ],
+  "author": "LoliKillers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoliKillers/RublixDownloader/issues"
+  },
+  "homepage": "https://github.com/LoliKillers/RublixDownloader#readme"
+}
