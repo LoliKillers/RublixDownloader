@@ -11,7 +11,7 @@ Install downloader handlers (list of them you can find at the bottom of this pag
 
 ## List of Downloader Handlers
 
--   [x] [Youtube Downloader](YoutubeDownloader)
+-   [x] [Youtube Downloader](https://github.com/LoliKillers/YoutubeDownloader)
 -   [ ] Come up with many more sources
 
 [Loli Loves Life](https://api.loli.loveslife.biz)
