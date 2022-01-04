@@ -1,0 +1,36 @@
+{
+    "name": "lolikillers/rublix-downloader",
+    "type": "library",
+    "description": "Download videos/images/music from external services such as ig, fb, twitter, etc",
+    "keywords": ["downloader","video downloader","music downloader","redgifs downloader","ig downloader"],
+    "homepage": "https://api.loli.loveslife.biz",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Loli Killers",
+            "email": "lolikillers157@gmail.com",
+            "homepage": "https://api.loli.loveslife.biz",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.5",
+        "aws/aws-sdk-php": "^3.185"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "LoliKillers\\RublixDownloader\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LoliKillers\\RublixDownloader\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
