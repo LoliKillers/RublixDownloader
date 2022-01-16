@@ -1,14 +1,14 @@
 <?php
-namespace AnyDownloader\DownloadManager\Model;
+namespace LoliKillers\RublixDownloader\Model;
 
-use AnyDownloader\DownloadManager\Model\Attribute\TitleAttribute;
-use AnyDownloader\DownloadManager\Model\ResourceItem\AudioResourceItem;
-use AnyDownloader\DownloadManager\Model\ResourceItem\ImageResourceItem;
-use AnyDownloader\DownloadManager\Model\ResourceItem\VideoResourceItem;
+use LoliKillers\RublixDownloader\Model\Attribute\TitleAttribute;
+use LoliKillers\RublixDownloader\Model\ResourceItem\AudioResourceItem;
+use LoliKillers\RublixDownloader\Model\ResourceItem\ImageResourceItem;
+use LoliKillers\RublixDownloader\Model\ResourceItem\VideoResourceItem;
 
 /**
  * Class ResourceItem
- * @package AnyDownloader\DownloadManager\Model
+ * @package LoliKillers\RublixDownloader\Model
  */
 abstract class ResourceItem
 {
