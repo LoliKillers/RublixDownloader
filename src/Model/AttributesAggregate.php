@@ -1,5 +1,5 @@
 <?php
-namespace AnyDownloader\RublixDownloader\Model;
+namespace LoliKillers\RublixDownloader\Model;
 
 /**
  * Interface AttributesAggregate
